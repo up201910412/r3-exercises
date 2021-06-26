@@ -1,0 +1,9 @@
+---
+title: "manipulate.Rmd"
+author: "vallucas"
+date: "26/06/2021"
+output: html_document
+---
+## Read online table
+
+### Download table (`*.csv`)
