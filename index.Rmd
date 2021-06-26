@@ -32,4 +32,13 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 title: "Welcome"
 ---
 
+<<<<<<< HEAD
 Hello, Github!
+=======
+Hello, RStudio!
+>>>>>>> 8f42e17 (edit from RStudio)
+---
+title: "Welcome"
+---
+
+Hello, everyone!
