@@ -32,4 +32,4 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 title: "Welcome"
 ---
 
-Hello, Website!
+Hello, Github!
